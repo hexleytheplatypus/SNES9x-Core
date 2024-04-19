@@ -36,7 +36,6 @@
 		87709EED294EDD590084AEE0 /* tileimpl-h2x1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87709EEA294EDD580084AEE0 /* tileimpl-h2x1.cpp */; };
 		87709EEE294EDD590084AEE0 /* tileimpl-n2x1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87709EEB294EDD580084AEE0 /* tileimpl-n2x1.cpp */; };
 		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
-		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		8F6CC7A029FD51E2006C7D59 /* fscompat.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F6CC79E29FD51E2006C7D59 /* fscompat.cpp */; };
 		94790D7A14C0C46900B30798 /* apu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94790CDC14C0C46900B30798 /* apu.cpp */; };
 		94790D8114C0C46900B30798 /* bsx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94790CF014C0C46900B30798 /* bsx.cpp */; };
@@ -268,7 +267,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DA5C31814DCF0180029660B /* libz.dylib in Frameworks */,
-				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
 				C6D120FB1711314D00E868A8 /* OpenEmuBase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
